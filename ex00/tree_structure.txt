@@ -1,0 +1,23 @@
+.:
+.  ..  dev_workspace
+
+./dev_workspace:
+.  ..  archives  projects  tools
+
+./dev_workspace/archives:
+.  ..
+
+./dev_workspace/projects:
+.  ..  web
+
+./dev_workspace/projects/web:
+.  ..  backend  frontend
+
+./dev_workspace/projects/web/backend:
+.  ..
+
+./dev_workspace/projects/web/frontend:
+.  ..
+
+./dev_workspace/tools:
+.  ..
