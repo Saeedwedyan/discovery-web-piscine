@@ -1,0 +1,42 @@
+commit b8646f885098cbf6ca09799b054e41e4d184ae2d
+Author: Saeedwedyan <86174836+Saeedwedyan@users.noreply.github.com>
+Date:   Sat Oct 3 17:53:37 2026 +0300
+
+    Delete git_workflow.txt
+
+commit df85f543f523be61b6a84db7b492b73a79dd5784
+Author: Saeedwedyan <86174836+Saeedwedyan@users.noreply.github.com>
+Date:   Sat Oct 3 17:53:28 2026 +0300
+
+    Delete README.md
+
+commit 5a8af81fb5f923432bff31eb1ee1b239e0328dd4
+Author: Saeedwedyan <86174836+Saeedwedyan@users.noreply.github.com>
+Date:   Sat Oct 3 17:52:58 2026 +0300
+
+    Delete project00/ex00 directory
+
+commit baaebafa93e611b813f263bede683d4d337a1aee
+Author: Saeed Alwedian <saeedalwedian@gmail.com>
+Date:   Sat Oct 3 10:49:42 2026 -0400
+
+    Add required folders
+
+commit 39646c1055f27b052ac65cb18b86e835ff9317d6
+Merge: c496bf6 45de8d0
+Author: Saeed Alwedian <saeedalwedian@gmail.com>
+Date:   Wed Sep 30 08:32:18 2026 -0400
+
+    Merge branch 'main' of https://github.com/Saeedwedyan/discovery-web-piscine
+
+commit c496bf68333b9ea272734f0225a0081e5e2cd9af
+Author: Saeed Alwedian <saeedalwedian@gmail.com>
+Date:   Wed Sep 30 08:30:11 2026 -0400
+
+    Add piscine exercises
+
+commit 45de8d0327bd0660fd38784b4f9ab543f2e5ca66
+Author: Saeed Alwedian <saeedalwedian@gmail.com>
+Date:   Wed Sep 30 08:16:48 2026 -0400
+
+    Exercise 03
